@@ -5,7 +5,11 @@
     <meta charset="UTF-8">
     <title>Homepage</title>
   </head>
-  
+  <style>
+body {background-color: yellow;}
+h1   {color: blue;}
+p    {color: purple;}
+</style>
   <body>
     <header>
       <nav>
