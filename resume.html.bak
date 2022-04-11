@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>Resume</title>
+  </head>
+  
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="index.html">Homepage</a></li>
+          <li><a href="resume.html">Resume</a></li>
+          <li><a href="page3.html">Hamster Species</a></li>
+        </ul>
+      </nav>
+    </header>
+    <h1>Mitzi Haro Resume</h1>
+      <h2>Contact Information</h2>
+      <p>(773)603-3207</p>
+      <p>mitziharo@gmail.com</p>
+      <p></p>
+      <h2>Education</h2>
+	<ul>
+        <li>Highschool: UCSN Hector P. Garcia M.D.</li>
+        <li>Bachelors: Information Technology and Management</li>
+		<li>Illinois Institute of Technology (expected graduation: Spring 2023)</li>
+		<li> Related course work: Java,Python,SQL,Project Management, Network Admin, Enterprise End-User Sys Admin 
+	</ul>
+      <h2>Work Experience</h2>
+      <h3>Book Seller</h3>
+	  <p></p>
+	<ul>
+	  <li>IIT Barnes and Noble Bookstore, Chicago,IL </li>
+	  <li> January 2020-Present </li>
+	  <li>Organize and sell Textbooks</li>
+	  </ul>
+	  <p></p>
+	  <h3>Galvin Libary Circulation Student Assistant</h3>
+	  <ul>
+	  <li>IIT Galvin Library, Chicago,IL </li>
+	  <li> Assist at main front desk, organize books. </li>
+	  </ul>
+	  <p></p>
+	  <h3>STEM Instructor</h3>
+	  <ul>
+	  <li>Arturo Velazquez Institute, Chicago,IL</li> 
+	  <li>July 2019 - December 2021</li>
+	  <li>Taught civil engineering to kids age 7-14</li>
+	  </ul>
+	  <p></p>
+	  <h3>Camp Counselor and Tutor </h3>
+	  <ul>
+	  <li> City Colleges of Chicago, Chicago, IL </li>
+	  <li> Summer of 2018,2019,2020</li>
+	  <li>Tutored and guided middle school age kids </li>
+	  </ul>
+    <footer>
+    </footer>
+  </body>
+</html>
