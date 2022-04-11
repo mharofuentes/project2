@@ -5,7 +5,11 @@
     <meta charset="UTF-8">
     <title>Resume</title>
   </head>
-  
+  <style>
+body {background-color: pink;}
+h1   {color: blue;}
+p    {color: purple;}
+</style>
   <body>
     <header>
       <nav>
