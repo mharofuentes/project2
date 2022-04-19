@@ -14,9 +14,20 @@
 	  font-family: Trebuchet MS,sans-serif;
 	  font-size: 20 vw;
 	  border: 2px solid coral;}
-	  
-</style>
+  <style>
+    .html {
+        font-size: 20px;
+    }
   
+    .parent {
+        font-size: 15px;
+    }
+  
+    .child-rem {
+        font-size: 2rem;
+        margin: 1.5rem;
+    }
+</style>
   <body>
     <header>
      <nav>
