@@ -19,7 +19,7 @@ body {background-color: LightBlue;}
   <body>
     <header>
       <nav>
-		list-style-type: none,
+		
         <ul>
           <li><a href="index.html">Homepage</a></li>
           <li><a href="resume.html">Resume</a></li>
