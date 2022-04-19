@@ -1,13 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-
-  <head>
-    <meta charset="UTF-8">
-    <title>Hamster Species</title>
-  </head>
-  <style>
+ <style>
 	body {background-color: grey;}
-	h1   {color: orange
+	h1   {color: orange;
 	font-family: Ariel,sans-serif;
 	font-size 230%;}
 	p    {color: pink;
@@ -27,6 +22,11 @@
         font-size: 2rem;
         margin: 1.5rem;
     }
+  <head>
+    <meta charset="UTF-8">
+    <title>Hamster Species</title>
+  </head>
+ 
 </style>
   <body>
     <header>
