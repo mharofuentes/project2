@@ -9,22 +9,13 @@
 	  font-family: Trebuchet MS,sans-serif;
 	  border: 2px solid coral;}
   <style>
-    .html {
-        font-size: 20px;
-    }
-    .parent {
-        font-size: 15px;
-    }
-  
-    .child-rem {
-        font-size: 2rem;
-        margin: 1.5rem;
-    }
+    .html { font-size: 20px;}
+    .parent {font-size: 15px;}
+	.child-rem { font-size: 2rem;
+        margin: 1.5rem; }
     <meta charset="UTF-8">
     <title>Hamster Species</title>
-
- 
-</style>
+	</style>
   <body>
     <header>
      <nav>
