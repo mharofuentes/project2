@@ -6,9 +6,14 @@
     <title>Resume</title>
   </head>
   <style>
-body {background-color: pink;}
+body {background-color: grey;}
 h1   {color: blue;}
-p    {color: purple;}
+		font-family: Ariel,sans-serif;
+		font-size 210%}
+p    {color: purple;
+	  font-family: Times New Roman,sans-serif;
+	  font-size: 120%;
+	  border: 2px solid black}
 </style>
   <body>
     <header>
@@ -17,7 +22,8 @@ p    {color: purple;}
           <li><a href="index.html">Homepage</a></li>
           <li><a href="resume.html">Resume</a></li>
           <li><a href="page3.html">Hamster Species</a></li>
-        </ul>
+		list-style-type: none,
+	   </ul>
       </nav>
     </header>
     <h1>Mitzi Haro Resume</h1>
@@ -26,11 +32,13 @@ p    {color: purple;}
       <p>mitziharo@gmail.com</p>
       <p></p>
       <h2>Education</h2>
+	  list-style-type: none,
 	<ul>
         <li>Highschool: UCSN Hector P. Garcia M.D.</li>
         <li>Bachelors: Information Technology and Management</li>
 		<li>Illinois Institute of Technology (expected graduation: Spring 2023)</li>
 		<li> Related course work: Java,Python,SQL,Project Management, Network Admin, Enterprise End-User Sys Admin 
+		
 	</ul>
       <h2>Work Experience</h2>
       <h3>Book Seller</h3>
