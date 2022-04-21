@@ -9,9 +9,6 @@
 		font-size: 210%}
 		p    {color: purple;
 		border: 1px Lightcoral;} 
-	
- 
-     <body>
      <header>
       <nav>
         <ul>
