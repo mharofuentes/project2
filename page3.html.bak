@@ -60,7 +60,7 @@
 	           </ul>
 	   
 	          <p>A great video about hamster shelter requirements </p>
-	  <iframe width="560" height="315" src="https://www.youtube.com/embed/Sn2xo5CMX34" title="YouTube video player" border: 0px; allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	  <iframe width="560" height="315" src="https://www.youtube.com/embed/Sn2xo5CMX34" title="YouTube video player"; allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	   <footer>
     </footer>
   </body>
