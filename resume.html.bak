@@ -1,18 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
   <style>
-  <style>
-         body {background-color: LavenderBlush;}
-	     h1   {color: LightCoral;
-		font-family: Ariel;
+	body {background-color: LavenderBlush;}
+		h1   {color: blue;}
+		{font-family: Ariel,sans-serif;
 		font-size: 210%}
-	    p   {color: purple;
-		font-family: Times New Roman,sans-serif;
-		font-size: 120%;
-		border: 2px solid cornflowerBlue;}
+		p {color: purple;
+		font-family: Trebuchet MS,sans-serif;
+		border: 1px Lightcoral;} 
+	
+    </style>
+ 
     <meta charset="UTF-8">
     <title>Resume</title>
-    <body>
+    
+     <body>
     <header>
       <nav>
         <ul>
