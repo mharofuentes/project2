@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
-  <head>
-    <meta charset="UTF-8">
-    <title>Resume</title>
-  </head>
   <style>
 	body {background-color: LavenderBlush;}
 	h1   {color: blue;}
@@ -14,8 +9,12 @@
 	  font-family: Times New Roman,sans-serif;
 	  font-size: 120%;
 	  border: 2px solid LightCoral ;}
-</style>
-  <body>
+    </style>
+    <head>
+    <meta charset="UTF-8">
+    <title>Resume</title>
+    </head>
+    <body>
     <header>
       <nav>
         <ul>
