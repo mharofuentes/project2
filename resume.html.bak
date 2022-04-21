@@ -5,14 +5,14 @@
 
 	body {background-color: LavenderBlush;}
 		h1   {
-		color: Navy;}
+		color: Navy;
 		font-family: Ariel;
 		font-size: 210%}
 		h2    {                       
-        		color:Hotpink;
+        		color: Hotpink;
 				font-family: Ariel;}
 		h3    {
-				RebeccaPurple;}
+				color: RebeccaPurple;}
 		p    {
 		color: Indigo;
 		border: 3px Lightcoral;} 
