@@ -15,9 +15,9 @@
 	font-family: Trebuchet;
 	 border: 2px solid coral;} 
 	 </style>
-	 </head>
 	 <meta charset="UTF-8">
 	 <title>Hamster Species</title>
+	 </head>
       <nav>
        <ul>
 
