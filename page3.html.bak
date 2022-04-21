@@ -1,15 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
 <style>
 
 	body {background-color: grey;}
-	h1   {color: orange;
-	font-family: Ariel,sans-serif;
+	h1   {
+	color: orange;
 	font-size: 230%;}
-	p {color: pink;
-	font-family: Trebuchet MS,sans-serif;
+	h2	{
+		color: DarkSlateBlue;
+		font-family: verdana;}
+	p {
+	color: pink;
+	font-family: Trebuchet;
 	 border: 2px solid coral;} 
 	 </style>
+	 </head>
 	 <meta charset="UTF-8">
 	 <title>Hamster Species</title>
       <nav>
