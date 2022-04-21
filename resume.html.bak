@@ -1,18 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
 <style>
 
 	body {background-color: LavenderBlush;}
-		h1   {color: blue;}
-		{font-family: Ariel,sans-serif;
+		h1   {
+		color: blue;}
+		font-family: Ariel;
 		font-size: 210%}
-		p    {color: purple;
+		p    {
+		color: purple;
 		border: 1px Lightcoral;} 
 		</style>
      <header>
 	 <meta charset="UTF-8">
     <title>Resume</title>
-  
+	</style>
+	</head>
       <nav>
         <ul>
           <li><a href="index.html">Homepage</a></li>
@@ -20,7 +24,6 @@
           <li><a href="page3.html">Hamster Species</a></li>
 	   </ul>
       </nav>
-    </header>
     <h1>Mitzi Haro Resume</h1>
       <h2>Contact Information</h2>
       <p>(773)609-3007</p>
