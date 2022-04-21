@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <style>
+<head>
          body {background-color: LightBlue;}
 	     h1   {color: DarkOrchid;
 		font-family: Ariel;
@@ -10,18 +11,13 @@
 		font-size: 120%;
 		border: 2px solid cornflowerBlue;}
 	  
-</style>
- 
-  
+	</style>
     <meta charset="UTF-8">
     <title>Homepage</title>
 
-  </head>
-  <body>
-  
-    <header>
-      <nav>
-		
+	</head>
+	<body>
+	<nav>
         <ul>
           <li><a href="index.html">Homepage</a></li>
           <li><a href="resume.html">Resume</a></li>
