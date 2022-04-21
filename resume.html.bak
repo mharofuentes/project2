@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
   <style>
-	body {background-color: LavenderBlush;}
-	h1{color: blue;}
-		{font-family: Ariel,sans-serif;
+  <style>
+         body {background-color: LavenderBlush;}
+	     h1   {color: LightCoral;
+		font-family: Ariel;
 		font-size: 210%}
-	p{color: purple;}
-	  {font-family: Times New Roman,sans-serif;
-	  font-size: 120%;
-	  border: 2px solid LightCoral ;}
-    </style>
+	    p   {color: purple;
+		font-family: Times New Roman,sans-serif;
+		font-size: 120%;
+		border: 2px solid cornflowerBlue;}
     <meta charset="UTF-8">
     <title>Resume</title>
     <body>
