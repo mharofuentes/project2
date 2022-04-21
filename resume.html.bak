@@ -5,11 +5,16 @@
 
 	body {background-color: LavenderBlush;}
 		h1   {
-		color: blue;}
+		color: Navy;}
 		font-family: Ariel;
 		font-size: 210%}
+		h2    {                       
+        		color:Hotpink;
+				font-family: Ariel;}
+		h3    {
+				RebeccaPurple;}
 		p    {
-		color: purple;
+		color: Indigo;
 		border: 3px Lightcoral;} 
 		</style>
   
@@ -25,7 +30,7 @@
 	   </ul>
       </nav>
     <h1>Mitzi Haro Resume</h1>
-      <h2>Contact Information</h2>
+      <h1>Contact Information</h1>
       <p>(773)609-3007</p>
       <p>mitziharo@gmail.com</p>
       <p></p>
