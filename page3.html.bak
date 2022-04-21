@@ -1,20 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
+ <meta charset="UTF-8">
+ <title>Hamster Species</title>
+ </head>
  <style>
 	body {background-color: grey;}
 	h1   {color: orange;
 	font-family: Ariel,sans-serif;
 	font-size: 230%;}
-	p    {color: pink;
-	  font-family: Trebuchet MS,sans-serif;
-	  border: 2px solid coral;}
-  <style>
-  <meta charset="UTF-8">
-  </style>
-      <header>
-	   <title>Hamster Species</title>
-	   </header>
-	   <body>
+	p {color: pink;
+	font-family: Trebuchet MS,sans-serif;
+	 border: 2px solid coral;} 
+	  <body>
       <nav>
        <ul>
 
@@ -23,7 +20,6 @@
          <li><a href="page3.html">Hamster Species</a></li>
         </ul>
         </nav>
-		<title>Hamster Species</title>
         <h1>Different types of Hamster Breeds</h1>
          <h2><em>Syrian Hamster</em></h2>
 	      <img src="images/images/syrianham.jpeg" alt="Grey Syrian Hamster">
@@ -58,7 +54,7 @@
 	           </ul>
 	   
 	          <p>A great video about hamster shelter requirements </p>
-	  <iframe bwidth="560" height="315" src="https://www.youtube.com/embed/Sn2xo5CMX34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	  <iframe width="560" height="315" src="https://www.youtube.com/embed/Sn2xo5CMX34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	   <footer>
     </footer>
   </body>
